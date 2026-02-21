@@ -1,0 +1,7 @@
+{
+  "name": "MoodFlow",
+  "description": "An AI-powered personal mood companion for tracking, detection, and regulation with real-time interventions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
